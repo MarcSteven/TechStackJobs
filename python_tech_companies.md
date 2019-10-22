@@ -1,0 +1,27 @@
+# Using Python as tech stack
+- Codecov
+- Dropbox
+- Spotify
+- Pinterest
+- Reddit
+- Keen
+- Pubu
+- Mailgun
+- Zenefits
+- Pitchfork
+- Soylent
+- FashionUnited
+- Disqus
+- Zalando
+- Trotter
+- imgix
+- hike
+- DataDog	
+- Oscar Health
+- Kalibrr
+- Mozilla
+- Zillow
+- BillGuard
+- Postmates
+- Pandora
+- Opower
